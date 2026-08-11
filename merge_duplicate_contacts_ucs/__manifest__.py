@@ -1,5 +1,5 @@
 {
-    'name': 'Merge Duplicate Contacts Ucs',
+    'name': "Merge Duplicate Contacts | Duplicate Contacts | Contact Deduplication | Contact Merge | Duplicate Contact Management | Address Book Cleanup | Contact Management",
     'version': '18.0.1.0.0',
     'category': 'CRM',
     'summary': 'Identify and merge duplicate contacts sharing the same name, type, and email with a single click',
